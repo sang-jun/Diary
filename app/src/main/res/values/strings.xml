@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">저장</string>
+    <string name="contents">일기 내용</string>
+    <string name="dialogTitle">날짜 선택</string>
+    <string name="confirm">확인</string>
+    <string name="cancle">취소</string>
+    <string name="emptyContents">일기 없음</string>
+    <string name="menu_reroad">다시 읽기</string>
+    <string name="menu_delete">일기 삭제</string>
+    <string name="menu_fontSize">글씨 크기</string>
+    <string name="small">작게</string>
+    <string name="medium">보통</string>
+    <string name="large">크게</string>
+    <string name="noDiary">일기가 존재하지 않습니다.</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/item_reroad"
+    android:title="@string/menu_reroad"></item>
+    <item android:id="@+id/item_delete"
+        android:title="@string/menu_delete"></item>
+    <item android:id="@+id/item_fontSize"
+        android:title="@string/menu_fontSize">
+        <menu>
+            <item android:id="@+id/large"
+                android:title="@string/large">
+            </item>
+            <item android:id="@+id/medium"
+                android:title="@string/medium">
+            </item>
+            <item android:id="@+id/small"
+                android:title="@string/small">
+            </item>
+        </menu>
+
+
+    </item>
+
+
+</menu>
